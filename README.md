@@ -1,7 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Aldair Oliveira ("ALLTHERE")</h1>
 <h3 align="center">A passionate I am passionate about problem solving, connecting people and communication.</h3>
+<p align="center"> <img src="https://camo.githubusercontent.com/8820d9416d377a573c862b5c9f21fb3512f5b6f1977c627eca60280d0b73c5c2/68747470733a2f2f73697468636f6d7075746572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30332f446174612d536369656e63652e676966"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0allthere1&label=Profile%20views&color=0e75b6&style=flat" alt="0allthere1" /> </p>
+
+- 👨‍💻 All of my projects are available at [Data Science Portfolio](https://github.com/0allthere1/Data-Science-Portfolio)
 
 - 🔭 I’m currently working on Machine Learning Projects **Finance Projects Portifolio**
 
@@ -9,17 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning**
 
-- 🤝 I’m looking for help with **MLOps**
-
-- 👨‍💻 All of my projects are available at [x](x)
-
-- 📝 I regularly write articles on [https://pingback.com/allthere](https://pingback.com/allthere)
+- 📝 I regularly write articles on [medium](https://medium.com/@0allthere1) | [pingback](https://pingback.com/allthere)
 
 - 💬 Ask me about **SQL, Power BI, Python, Excel**
 
 - 📫 How to reach me **asomailling@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aldairoliveira/](https://www.linkedin.com/in/aldairoliveira/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/aldairoliveira/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
